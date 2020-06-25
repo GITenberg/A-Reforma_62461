@@ -1,5 +1,8 @@
 _repo: A-Reforma_62461
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62461-h/images/cover.jpg
 creator:
   author:
     agent_name: Lindsay, Thomas M. (Thomas Martin)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '40731'
     url: http://www.gutenberg.org/2009/agents/40731
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62461#A-Reforma
 gutenberg_issued: '2020-06-23'
 gutenberg_type: Text
 identifiers:
